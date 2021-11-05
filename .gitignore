@@ -1,0 +1,7 @@
+cms/__pycache__
+cms/migrations
+cms/templatetags/__pycache__
+todo/__pycache__
+todo/migrations
+todoapp/__pycache__
+db.sqlite3
